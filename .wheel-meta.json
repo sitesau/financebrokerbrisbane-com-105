@@ -1,0 +1,19 @@
+{
+  "wheel_id": 348,
+  "structure": "umbrella",
+  "slug": "financebrokerbrisbane-com-105",
+  "project": "home-loan-brokers-brisbane-comparison-868b237266500786a98bf1434",
+  "parent_t1_ref": "financebrokerbrisbane-com-152",
+  "node_role": "feeder",
+  "money_target": "financebrokerbrisbane.com.au",
+  "primary_kw": "home loan brokers brisbane comparison",
+  "intended_url": "http://home-loan-brokers-brisbane-comparison-868b237266500786a98bf1434.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "e68efd2b45d21b71",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/financebrokerbrisbane-com-152/",
+      "anchor": "home loan brokers brisbane",
+      "rel": "follow"
+    }
+  ]
+}
